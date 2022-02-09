@@ -1,0 +1,2 @@
+# nodeFirebaseMochaExpressApp
+A small study.
