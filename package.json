@@ -1,0 +1,39 @@
+{
+  "name": "nodefirebasemochaexpressapp",
+  "version": "1.0.0",
+  "description": "A small Node personal study project to review Firebase and Mocha concepts.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4iser/nodeFirebaseMochaExpressApp.git"
+  },
+  "keywords": [
+    "mocha",
+    "firebase",
+    "study",
+    "personal"
+  ],
+  "author": "Alex Sampaio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r4iser/nodeFirebaseMochaExpressApp/issues"
+  },
+  "homepage": "https://github.com/r4iser/nodeFirebaseMochaExpressApp#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.8.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.5.1"
+  }
+}
